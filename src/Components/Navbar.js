@@ -39,6 +39,7 @@ Navbar.propTypes = {
   About: PropTypes.string
 };
 
+
 Navbar.defaultProps = {
   Te: "Enter Name",
   Home: "Enter Something About Home",
